@@ -1,0 +1,18 @@
+h1{
+    font-family: 'Mountains of Christmas', serif;
+font-family: 'Single Day', cursive;
+text-align: center;
+}
+p{
+    font-family: 'Modern Antiqua', serif;
+    color: rgb(211, 29, 29);
+   
+}
+body{
+    background-image: url(./christmasphoto.webp);
+    
+}
+#Gift{
+    width: 300px;
+}
+

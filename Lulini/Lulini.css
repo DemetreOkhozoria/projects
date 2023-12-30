@@ -1,0 +1,29 @@
+#Lul{
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+img{
+    width: 200px;
+    right: 500px;
+}
+p{
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+a{
+    text-size-adjust: 200px;
+}
+#This{
+    left:500px
+}
+body{
+    background-color: rgb(81, 156, 44);
+}
+form{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
